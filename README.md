@@ -9,3 +9,5 @@ Please visit [dubbo.io](http://dubbo.io) for detailed documentation. Want to fin
 * [Issue report](https://github.com/alibaba/dubbo/issues). Report a defect or feature request
 * [Gitter channel](https://gitter.im/alibaba/dubbo). 
 * [Contributing](https://github.com/alibaba/dubbo/blob/master/CONTRIBUTING.md). How to contribute.
+
+本fork涉及到的所有代码修改, 都是在学习dubbo源码中有必要的修改, 但是对dubbo框架并没有帮助
